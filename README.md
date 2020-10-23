@@ -1,4 +1,4 @@
-# PropriatenessProbability
+# Propriateness Probability
  Calculate propriateness probability of activities and performer from affiliation network discovered in the Helpdesk data set.
  
  
@@ -134,7 +134,7 @@
 | Wait                  | Value 19  | 7               | 0.004784689                 |
 | Wait                  | Value 5   | 6               | 0.004101162                 |
 | Wait                  | Value 17  | 1               | 0.000683527                 |
-|-----------------------|-----------|-----------------|-----------------------------|
+
 
 The appropriateness probability of all performers:
 
@@ -268,4 +268,3 @@ The appropriateness probability of all performers:
 | Require upgrade       | Value 9        | 17              | 0.008201                    |
 | Create SW anomaly     | Value 9        | 7               | 0.003377                    |
 | Resolve SW anomaly    | Value 9        | 1               | 0.000482                    |
-|-----------------------|-----------|-----------------|-----------------------------|
